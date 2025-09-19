@@ -25,7 +25,7 @@ TQA_PREFS = {
     10: "I prefer answers that provide cultural context.",
     11: "I prefer historical context and etymology in explanations.",
     12: "I prefer responses that include various perspectives",
-    13: "I have strong aversion for none creative responses.",
+    13: "I have strong aversion for non-creative responses.",
     14: "I prefer responses that capture emotional nuances."
 }
 
@@ -40,7 +40,7 @@ CQA_PREFS = {
     8: "I prefer practical examples to illustrate concepts.",
     9: "I prefer answers that provide cultural context.",
     10: "I prefer responses that include various perspectives",
-    11: "I have strong aversion for none creative responses.",
+    11: "I have strong aversion for non-creative responses.",
     12: "I dislike responses that are without examples or illustrations",
 }
 
